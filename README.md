@@ -4,7 +4,7 @@ A Thesis project.
 
 ## Getting Started
 
-This project is on the process of its development.
+This project is in the process of its development.
 
 A few resources to get you started if this is your first Flutter project:
 
